@@ -5,7 +5,8 @@ Find timezone based on coordinates
 
 put both files in the same directory, 
 
-- To run
+To run
+=============
 
 python find_timezone.py --lat 12.345 --lon 67.890
 (returns 'Asia/Kolkata')
